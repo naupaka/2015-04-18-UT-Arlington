@@ -1,5 +1,5 @@
 
-# Git intro for Software Carpentry workshop at the University of Arizona
+# Git intro for Software Carpentry workshop at the University of Texas Arlington
 
 Slides orginally created by Karthik Ram
 
