@@ -12,3 +12,4 @@
 8. Commit your changes and push them to github.
 9. Compile the final Rmd file to html, make sure it looks ok, and then commit this html file as well (should be in your working directory) and push everything to github.
 
+**UPDATE:** One version of a [final solution is now available](https://github.com/naupaka/Sunday_scripts/blob/master/Final_challenge_solution.Rmd). 
